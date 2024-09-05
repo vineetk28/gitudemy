@@ -1,0 +1,2 @@
+Every commit has a unique ID (long) called hash
+Every commit has at least one parent commit.
